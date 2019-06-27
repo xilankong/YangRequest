@@ -1,0 +1,37 @@
+{
+  "name": "YangRequest",
+  "version": "0.1.0",
+  "summary": "A short description of YangRequest.",
+  "homepage": "https://github.com/xilankong@126.com/YangRequest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "xilankong@126.com": "huangyang@akulaku.com"
+  },
+  "source": {
+    "git": "https://github.com/xilankong@126.com/YangRequest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "swift_versions": "5.0",
+  "source_files": "YangRequest/Classes/**/*",
+  "dependencies": {
+    "Moya": [
+
+    ],
+    "HandyJSON": [
+
+    ],
+    "SwiftyJSON": [
+
+    ],
+    "YangExtension": [
+
+    ]
+  },
+  "swift_version": "5.0"
+}

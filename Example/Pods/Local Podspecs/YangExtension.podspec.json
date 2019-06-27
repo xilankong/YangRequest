@@ -1,0 +1,31 @@
+{
+  "name": "YangExtension",
+  "version": "0.1.0",
+  "summary": "A short description of YangExtension.",
+  "homepage": "https://github.com/xilankong/YangExtension",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yang": "xilankong@126.com"
+  },
+  "source": {
+    "git": "https://github.com/xilankong/YangExtension.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "swift_versions": "5.0",
+  "source_files": "YangExtension/Classes/**/*",
+  "dependencies": {
+    "DeviceKit": [
+
+    ],
+    "YangKeychainStore": [
+
+    ]
+  },
+  "swift_version": "5.0"
+}

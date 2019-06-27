@@ -1,0 +1,6 @@
+framework module YangRequest {
+  umbrella header "YangRequest-umbrella.h"
+
+  export *
+  module * { export * }
+}
