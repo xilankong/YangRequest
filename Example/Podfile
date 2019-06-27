@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'YangRequest_Example' do
+  pod 'YangRequest', :path => '../'
+
+  target 'YangRequest_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
